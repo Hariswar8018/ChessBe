@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47211660382",
+    "project_id": "smartlancer-660d4",
+    "storage_bucket": "smartlancer-660d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47211660382:android:7e747f2519574c487160cf",
+        "android_client_info": {
+          "package_name": "com.example.chess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47211660382-gb7pd938np9ah8njuknpphh3a0fhqnt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDXGhxMDoFkiBKOXzei_L5DbksV0c1ZDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47211660382-gb7pd938np9ah8njuknpphh3a0fhqnt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
